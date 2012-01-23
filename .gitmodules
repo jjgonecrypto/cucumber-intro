@@ -1,0 +1,3 @@
+[submodule "deck/impress.js"]
+	path = deck/impress.js
+	url = git://github.com/bartaz/impress.js.git
