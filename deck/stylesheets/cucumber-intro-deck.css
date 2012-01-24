@@ -1,0 +1,53 @@
+body {
+    
+    background: -webkit-radial-gradient(green, yellow);
+
+}
+.slide {
+    display: block;
+
+    width: 900px;
+    height: 700px;
+
+    padding: 40px 60px;
+
+    border-radius: 10px;
+    background-color: black;
+
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, .3);
+
+    font-family: 'Open Sans', Arial, sans-serif;
+
+    color: black;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+
+    font-size: 30px;
+    line-height: 36px;
+
+    letter-spacing: -1px;
+}
+
+.slide q {
+    display: block;
+    font-size: 50px;
+    line-height: 72px;
+
+    margin-top: 100px;
+
+    color: yellow;
+}
+
+img.bordered
+{
+    border: 10px solid black;
+}
+.slide q.tagline
+{    
+    font-size: 65%;
+}
+
+.slide q strong {
+    white-space: nowrap;
+}
+
